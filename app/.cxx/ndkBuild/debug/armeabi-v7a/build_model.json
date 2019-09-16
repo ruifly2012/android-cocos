@@ -1,0 +1,58 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/edz/MyApplication",
+      "sdkFolder": "/Users/edz/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "ideBuildTargetAbi": "armeabi-v7a,armeabi",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/edz/MyApplication/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/edz/MyApplication/app",
+      "makeFile": "/Users/edz/MyApplication/app/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "/Users/edz/MyApplication/.cxx",
+      "cxxFolder": "/Users/edz/MyApplication/app/.cxx",
+      "ndkFolder": "/Users/edz/Library/Android/sdk/ndk-bundle",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/Users/edz/MyApplication/app/build/intermediates/ndkBuild/debug/lib",
+    "objFolder": "/Users/edz/MyApplication/app/build/intermediates/ndkBuild/debug/obj/local",
+    "jsonFolder": "/Users/edz/MyApplication/app/.cxx/ndkBuild/debug",
+    "gradleBuildOutputFolder": "/Users/edz/MyApplication/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 19,
+  "cxxBuildFolder": "/Users/edz/MyApplication/app/.cxx/ndkBuild/debug/armeabi-v7a",
+  "jsonFile": "/Users/edz/MyApplication/app/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/edz/MyApplication/app/.cxx/cxx/debug/armeabi-v7a",
+  "objFolder": "/Users/edz/MyApplication/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a",
+  "buildCommandFile": "/Users/edz/MyApplication/app/.cxx/ndkBuild/debug/armeabi-v7a/build_command.txt",
+  "buildOutputFile": "/Users/edz/MyApplication/app/.cxx/ndkBuild/debug/armeabi-v7a/build_output.txt",
+  "modelOutputFile": "/Users/edz/MyApplication/app/.cxx/ndkBuild/debug/armeabi-v7a/build_model.json",
+  "jsonGenerationLoggingRecordFile": "/Users/edz/MyApplication/app/.cxx/ndkBuild/debug/armeabi-v7a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/edz/MyApplication/app/.cxx/ndkBuild/debug/armeabi-v7a/compile_commands.json"
+}
